@@ -1,0 +1,4 @@
+Open at first preprocessing .This will combine both results of Tagging Bi LSTM and Transformer tripels.It will also do some changes to data(realtions1.pkl should be created) . Then open project owlready.py 
+to create the ontology. Then insside conklude in your system copy teh scripts in Konclude and the resulted test.owl ontology plus the GBO ontology(GENIALOntBFO). To reason with second method
+Open second_method_first_run and second_run to create two ontologies.Rename the inconsistent ontology testi(test1) and place in the main folder then open the finishing loop
+to change the csv file.
